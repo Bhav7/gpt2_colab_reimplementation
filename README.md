@@ -1,6 +1,6 @@
 # Training GPT2 in google colab
 
-This is a reimplementation of OpenAI's [GPT2](#https://github.com/openai/gpt-2), in which it was trained for ~17,000 iterations on the FineWeb-Edu(10BT sample) in google colab on an A100 GPU. This work takes significant inspiration from Andrej Karpathy's [build nanogpt respoitory](#https://github.com/karpathy/build-nanogpt).
+This is a reimplementation of OpenAI's [GPT2](https://github.com/openai/gpt-2), in which it was trained for ~17,000 iterations on the FineWeb-Edu(10BT sample) in google colab on an A100 GPU. This work takes significant inspiration from Andrej Karpathy's [build nanogpt repo](https://github.com/karpathy/build-nanogpt).
 
 
 ## Performance Metrics
